@@ -1,5 +1,8 @@
 # 450V HV Indicator
 
+![7873351665871968258](https://user-images.githubusercontent.com/14287399/197922667-3cffab45-05db-49bf-8a65-c0cddc485d22.png)
+
+
 DESCRIPTION
 
 This board (sponsored by JLCPCB) steps down our 450V battery pack voltage down to 12V, which then powers an LED to indicate that High Voltage has left our battery pack.
